@@ -1,0 +1,40 @@
+{
+    "list": {
+        "height": 0.2,
+        "columns": {
+            "common": [
+                {
+                    "id": "osmid",
+                    "hidden": true
+                },
+                {
+                    "id": "category",
+                    "name": "種類",
+                    "width": "50%"
+                },
+                {
+                    "id": "name",
+                    "name": "施設名",
+                    "width": "30%"
+                },
+                {
+                    "id": "min_age",
+                    "name": "年齢",
+                    "width": "20%"
+                }
+            ],
+            "poi_fields": [
+                "id",
+                "#category",
+                "#parent.name,name",
+                "min_age"
+            ],
+            "act_fields": [
+                "id",
+                "#category",
+                "#name",
+                "#min_age"
+            ]
+        }
+    }
+}
