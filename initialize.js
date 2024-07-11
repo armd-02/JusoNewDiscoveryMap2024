@@ -109,10 +109,12 @@ window.addEventListener("DOMContentLoaded", function () {
 			let osmids = poiCont.pois().acts.map(act => { return act.osmid })
 			osmids = osmids.filter(Boolean)
 			if (osmids.length > 0 && !Conf.static.mode) {
-				OvPassCnt.getOsmIds(osmids).then(geojson => {
+				basic.retry(() => OvPassCnt.getOsmIds(osmids),5).then(geojson => {
 					poiCont.add_geojson(geojson)
 					poiCont.setActlnglat()
 					init_close()
+				}).catch(() => {
+					console.log("???")
 				})
 			} else {
 				poiCont.setActlnglat()
