@@ -54,7 +54,7 @@ class CMapMaker {
 				resolve("cMapMaker: no static mode");
 			} else {
 				$.ajax({ "type": 'GET', "dataType": 'json', "url": Conf.static.osmjson, "cache": false }).done(function (data) {
-					let ovanswer = OvPassCnt.setOsmJson(data);
+					let ovanswer = overPassCont.setOsmJson(data);
 					poiCont.add_geojson(ovanswer)
 					poiCont.setActlnglat()
 					console.log("cMapMaker: static load done.")
@@ -130,7 +130,7 @@ class CMapMaker {
 				console.log("[success]cMapMaker: updateOsmPoi End(more zoom).");
 				resolve({ "update": true });
 			} else {
-				OvPassCnt.getGeojson(keys, status_write).then(ovanswer => {
+				overPassCont.getGeojson(keys, status_write).then(ovanswer => {
 					winCont.spinner(false);
 					if (ovanswer) {
 						poiCont.add_geojson(ovanswer)

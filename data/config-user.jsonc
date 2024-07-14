@@ -1,16 +1,15 @@
 // Community Mapmaker User Config
 {
     "map": {
-        "tileName": "OSMFJ", // タイル一覧は config-system.jsonc へ
+        "tileName": "Japan_20240101", // タイル一覧は config-system.jsonc へ
         "viewCenter": [
-            135.4967874,
-            34.7033348
+            135.481683,
+            34.720456
         ],
         "viewPitch": 40,
-        "maxBounds": "",
-        "_maxBounds": [
+        "maxBounds": [
             [
-                135.4,
+                135.43,
                 34.65
             ],
             [
@@ -18,7 +17,7 @@
                 34.8
             ]
         ],
-        "initZoom": 12,
+        "initZoom": 16,
         "maxZoom": 23,
         "modalZoom": 19 // モーダルダイアログ表示時のズームサイズ   
     },
@@ -65,8 +64,8 @@
         "targetName": "activity"
     },
     "static": {
-        "mode": false,
-        "osmjson": ""
+        "mode": true,
+        "osmjson": "./data/static20240714.json"
     },
     "wikipedia": {
         "marker": "wikipedia.svg",

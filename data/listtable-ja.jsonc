@@ -16,11 +16,6 @@
                     "id": "name",
                     "name": "施設名",
                     "width": "30%"
-                },
-                {
-                    "id": "min_age",
-                    "name": "年齢",
-                    "width": "20%"
                 }
             ],
             "poi_fields": [

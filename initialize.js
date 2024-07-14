@@ -12,8 +12,9 @@ const FILES = [
 const glot = new Glottologist();
 var modal_activities = new modal_Activities();
 var modal_wikipedia = new modal_Wikipedia();
+var modal_osmbasic = new modal_OSMbasic();
 var basic = new Basic();
-var OvPassCnt = new OverPassControl();
+var overPassCont = new OverPassControl();
 var mapLibre = new Maplibre();
 var geoCont = new GeoCont();
 var listTable = new ListTable();
@@ -109,12 +110,10 @@ window.addEventListener("DOMContentLoaded", function () {
 			let osmids = poiCont.pois().acts.map(act => { return act.osmid })
 			osmids = osmids.filter(Boolean)
 			if (osmids.length > 0 && !Conf.static.mode) {
-				basic.retry(() => OvPassCnt.getOsmIds(osmids),5).then(geojson => {
+				basic.retry(() => overPassCont.getOsmIds(osmids),5).then(geojson => {
 					poiCont.add_geojson(geojson)
 					poiCont.setActlnglat()
 					init_close()
-				}).catch(() => {
-					console.log("???")
 				})
 			} else {
 				poiCont.setActlnglat()

@@ -14,6 +14,9 @@
         ]
     },
     "tile": {
+        "Japan_20240101":{
+            "style": "./tiles/japan-20240101.json"
+        },
         "OSMFJ": {
             "style": "./tiles/osmfj.json"
         },
