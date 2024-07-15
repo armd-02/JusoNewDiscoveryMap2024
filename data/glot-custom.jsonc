@@ -37,34 +37,34 @@
 	},
 	"actdate": {
 		"ja": "【日付】",
-		"en": "Date"
+		"en": "Date: "
 	},
 	"act_memo": {
 		"ja": "【説明】",
-		"en": "Detail"
+		"en": "Explanation: "
 	},
 	"detail_url": {
-		"ja": "【詳細URL】",
-		"en": "Detail URL"
+		"ja": "【詳細】",
+		"en": "Detail: "
 	},
 	"act_picture_url1": {
-		"ja": "【写真URL1】",
-		"en": "Picture URL1"
+		"ja": "【写真】",
+		"en": "Picture: "
 	},
 	"act_picture_url2": {
-		"ja": "【写真URL2】",
-		"en": "Picture URL2"
+		"ja": "【写真】",
+		"en": "Picture: "
 	},
 	"act_picture_url3": {
-		"ja": "【写真URL3】",
-		"en": "Picture URL3"
+		"ja": "【写真】",
+		"en": "Picture: "
 	},
 	"act_picture_url4": {
-		"ja": "【写真URL4】",
-		"en": "Picture URL4"
+		"ja": "【写真】",
+		"en": "Picture: "
 	},
 	"act_picture_url5": {
-		"ja": "【写真URL5】",
-		"en": "Picture URL5"
+		"ja": "【写真】",
+		"en": "Picture: "
 	}
 }

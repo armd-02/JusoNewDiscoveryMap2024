@@ -25,6 +25,23 @@
                 "name",
                 "operator"
             ]
+        },
+        "bicycle_rental": {
+            "overpass": [
+                "nwr[\"amenity\"=\"bicycle_rental\"]"
+            ],
+            "tags": [
+                "amenity",
+            ],
+            "expression": {
+                "stroke": "#c0c0c0",
+                "stroke-width": 1
+            },
+            "titles": [
+                "name",
+                "operator"
+            ]
         }
     }
 }
+

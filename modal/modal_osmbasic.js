@@ -12,6 +12,13 @@ class modal_OSMbasic {
             elements++
         }
 
+        // write brand
+        let brand = [tags["brand:ja"], tags.brand].filter(a => a !== undefined)[0]
+        if (brand !== undefined) {
+            html += `<div class="flex-row"> <i class="fa-solid fa-building"></i>${brand}</div>`
+            elements++
+        }
+
         // write changing_table
         if (tags.changing_table !== undefined) {
             let available = tags.changing_table == "yes" ? glot.get("available") : glot.get("unavailable")
@@ -40,7 +47,7 @@ class modal_OSMbasic {
         }
 
         // write website
-        let website = [tags.website, tags["contact:website"]].filter(a => a !== undefined)[0]
+        let website = [tags.website, tags["contact:website"], tags["brand:website"]].filter(a => a !== undefined)[0]
         if (website !== undefined) {
             html += `<div class="flex-row"> <i class="fas fa-globe"></i> <a href="${website}" target="_blank">${website}</a></div>`
             elements++
@@ -49,7 +56,8 @@ class modal_OSMbasic {
         // write instagram
         let instagram = [tags.instagram, tags["contact:instagram"]].filter(a => a !== undefined)[0]
         if (instagram !== undefined) {
-            html += `<div class="flex-row"> <i class="fa-brands fa-instagram"></i> <a href="https://www.instagram.com/${instagram}" target="_blank">${instagram}</a></div>`
+            instagram = this.getInstagramProfileUrl(instagram)
+            html += `<div class="flex-row"> <i class="fa-brands fa-instagram"></i> <a href="${instagram[0]}" target="_blank">${instagram[1]}</a></div>`
             elements++
         }
 
@@ -77,5 +85,22 @@ class modal_OSMbasic {
             elements++
         }
         return elements > 0 ? html + "</div>" : ""
+    }
+
+    getInstagramProfileUrl(input) {
+        const urlPattern = /(?:https?:\/\/)?(?:www\.)?instagram\.com\/([a-zA-Z0-9._]+)/
+        const usernamePattern = /^[a-zA-Z0-9._]+$/
+        const match = input.match(urlPattern)
+
+        if (match && match[1]) {
+            // 入力がURLの場合、ユーザー名を抽出し、配列にして返す
+            return [input, match[1]]
+        } else if (input.match(usernamePattern)) {
+            // 入力がユーザー名の場合、URLを生成して配列にして返す
+            return [`https://www.instagram.com/${input}/`, input]
+        } else {
+            // 入力がどちらでもない場合、nullを返す
+            return null
+        }
     }
 }

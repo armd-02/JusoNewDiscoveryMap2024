@@ -302,6 +302,7 @@
             "works": "works"
         },
         "leisure": {
+            "adult_gaming_centre":"adult gaming centre",
             "amusement_arcade": "amusement arcade",
             "dance": "dance",
             "fitness_centre": "fitness center",

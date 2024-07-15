@@ -302,6 +302,7 @@
             "works": "工場"
         },
         "leisure": {
+            "adult_gaming_centre":"パチンコ/パチスロ",
             "amusement_arcade": "ゲームセンター",
             "garden": "庭",
             "dance": "ダンスホール",
