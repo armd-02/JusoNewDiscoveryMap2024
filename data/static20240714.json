@@ -1351,1658 +1351,9 @@
     },
     {
       "type": "node",
-      "id": 9921926092,
-      "lat": 34.7167676,
-      "lon": 135.4805332,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 4,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "brand": "Docomo Bike Share",
-        "brand:ja": "ドコモ・バイクシェア",
-        "brand:website": "https://docomo-cycle.jp/",
-        "brand:wikidata": "Q55533296",
-        "capacity": "10",
-        "fee": "yes",
-        "gbfs:name": "K-01.ホテルプラザオーサカ",
-        "gbfs:station_id": "7811",
-        "gbfs:system_id": "docomo-cycle",
-        "name": "ホテルプラザオーサカ",
-        "network": "HUBchari",
-        "ref": "K-01",
-        "website": "https://hubchari.jp/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9921935508,
-      "lat": 34.7176216,
-      "lon": 135.4805946,
-      "timestamp": "2023-08-28T02:25:59Z",
-      "version": 3,
-      "changeset": 140473252,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "nightclub",
-        "contact:facebook": "https://www.facebook.com/13besu/",
-        "name": "13BASE",
-        "website": "http://yoshimisake.amsstudio.jp/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9921941800,
-      "lat": 34.7178406,
-      "lon": 135.4795417,
-      "timestamp": "2024-07-14T14:07:46Z",
-      "version": 2,
-      "changeset": 153932308,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "nightclub",
-        "contact:instagram": "grandsaloon13",
-        "name": "グランドサロン十三",
-        "website": "https://juso13.net/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9921968427,
-      "lat": 34.7203623,
-      "lon": 135.4818384,
-      "timestamp": "2023-08-19T02:21:23Z",
-      "version": 3,
-      "changeset": 140079098,
-      "user": "knkouki",
-      "uid": 20091202,
-      "tags": {
-        "check_date": "2023-08-19",
-        "name": "SOLE de conon",
-        "shop": "pastry",
-        "website": "http://sole-de-conon.com/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9921992288,
-      "lat": 34.7189770,
-      "lon": 135.4807284,
-      "timestamp": "2022-07-31T09:02:54Z",
-      "version": 1,
-      "changeset": 124293279,
-      "user": "CAFEYUTTE",
-      "uid": 8768240,
-      "tags": {
-        "amenity": "cinema",
-        "name": "シアターセブン"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9922002018,
-      "lat": 34.7189274,
-      "lon": 135.4807565,
-      "timestamp": "2022-07-31T09:05:00Z",
-      "version": 2,
-      "changeset": 124293353,
-      "user": "CAFEYUTTE",
-      "uid": 8768240,
-      "tags": {
-        "amenity": "nightclub",
-        "name": "GABU"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9922014090,
-      "lat": 34.7193163,
-      "lon": 135.4796154,
-      "timestamp": "2024-07-14T13:58:55Z",
-      "version": 2,
-      "changeset": 153931954,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "contact:instagram": "___nonoji",
-        "cuisine": "italian",
-        "name": "ののじ"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9923598366,
-      "lat": 34.7191163,
-      "lon": 135.4797569,
-      "timestamp": "2022-09-04T13:49:37Z",
-      "version": 2,
-      "changeset": 125773682,
-      "user": "Masutani Atsushi",
-      "uid": 15684906,
-      "tags": {
-        "addr:city": "大阪市",
-        "addr:neighbourhood": "1-13-2",
-        "addr:postcode": "5320024",
-        "addr:province": "大阪府",
-        "addr:quarter": "十三本町",
-        "addr:suburb": "淀川区",
-        "amenity": "restaurant",
-        "cuisine": "noodle",
-        "name": "ラーメン食堂 中野屋十三店",
-        "opening_hours": "Mo-Su 11:30-14:30 18:00-24:00"
-      }
-    },
-    {
-      "type": "node",
-      "id": 9923598994,
-      "lat": 34.7178755,
-      "lon": 135.4789147,
-      "timestamp": "2024-07-14T14:18:26Z",
-      "version": 2,
-      "changeset": 153932778,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "addr:city": "大阪市淀川区十三本町",
-        "addr:housenumber": "5F",
-        "addr:neighbourhood": "1-18-7 クリオプラザ十三パート2",
-        "addr:postcode": "5320024",
-        "addr:province": "大阪府",
-        "amenity": "bar",
-        "name": "Bar Dolphin",
-        "opening_hours": "Fr-Sa 19:00-23:30",
-        "website": "https://mimemo.io/m/5dn7jlK1DXGr9Ye"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10159399289,
-      "lat": 34.7192360,
-      "lon": 135.4822170,
-      "timestamp": "2024-07-14T13:29:07Z",
-      "version": 2,
-      "changeset": 153930788,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "fast_food",
-        "contact:instagram": "takara_shaved.ice.shop",
-        "name": "お茶のかき氷とモンブラン かき氷たから"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10159432525,
-      "lat": 34.7181140,
-      "lon": 135.4786374,
-      "timestamp": "2023-08-27T23:37:03Z",
-      "version": 2,
-      "changeset": 140470995,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "name": "Comfort Zone 8 京いたりあん",
-        "website": "https://comfortzone8kyoitarian.com/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10159436811,
-      "lat": 34.7195169,
-      "lon": 135.4770517,
-      "timestamp": "2022-11-05T14:18:55Z",
-      "version": 1,
-      "changeset": 128522746,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "community_centre",
-        "name": "スペースコラリオン",
-        "name:en": "space korallion",
-        "website": "https://spacekorallion.amebaownd.com/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10159518044,
-      "lat": 34.7149775,
-      "lon": 135.4796895,
-      "timestamp": "2022-11-05T14:53:05Z",
-      "version": 1,
-      "changeset": 128523947,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "arts_centre",
-        "name": "キッズクラフト",
-        "website": "http://kidscraftosaka.jp/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10159519642,
-      "lat": 34.7222216,
-      "lon": 135.4860125,
-      "timestamp": "2023-12-27T05:41:48Z",
-      "version": 2,
-      "changeset": 145558484,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "arts_centre",
-        "check_date": "2023-12-27",
-        "name": "アトリエCaima",
-        "website": "https://caima.jp/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10159677020,
-      "lat": 34.7222295,
-      "lon": 135.4838226,
-      "timestamp": "2024-07-14T13:10:31Z",
-      "version": 4,
-      "changeset": 153930060,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "bar",
-        "check_date": "2023-08-19",
-        "contact:instagram": "redcarpet.rental_party",
-        "name": "レッドカーペット",
-        "website": "https://redcarpet20225.wixsite.com/my-site"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10250166909,
-      "lat": 34.7238777,
-      "lon": 135.4867396,
-      "timestamp": "2024-07-14T12:55:37Z",
-      "version": 3,
-      "changeset": 153929504,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "cafe",
-        "check_date": "2024-04-04",
-        "contact:instagram": "cafe_mousse",
-        "name": "む〜す"
-      }
-    },
-    {
-      "type": "node",
-      "id": 10745288583,
-      "lat": 34.7241455,
-      "lon": 135.4842106,
-      "timestamp": "2024-03-13T11:16:48Z",
-      "version": 4,
-      "changeset": 148588456,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "addr:block_number": "2",
-        "addr:city": "大阪市",
-        "addr:housenumber": "34",
-        "addr:neighbourhood": "5",
-        "addr:postcode": "532-0023",
-        "addr:province": "大阪府",
-        "addr:quarter": "十三東",
-        "addr:suburb": "淀川区",
-        "amenity": "library",
-        "check_date": "2024-03-13",
-        "name": "みんなの図書館さいくる",
-        "name:ja": "みんなの図書館さいくる",
-        "website": "https://saicuru.stores.jp/",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11124188071,
-      "lat": 34.7190427,
-      "lon": 135.4825244,
-      "timestamp": "2024-07-14T13:28:10Z",
-      "version": 2,
-      "changeset": 153930749,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "pub",
-        "check_date": "2023-08-18",
-        "name": "バルボア",
-        "opening_hours": "Tu-Su 17:00-24:00",
-        "website": "https://barboa.jp/juso"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126569889,
-      "lat": 34.7209618,
-      "lon": 135.4829473,
-      "timestamp": "2023-08-19T02:31:43Z",
-      "version": 1,
-      "changeset": 140079203,
-      "user": "みずぽっぽ",
-      "uid": 20091200,
-      "tags": {
-        "amenity": "pub",
-        "check_date": "2023-08-19",
-        "name": "鉄板処　こてつ"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126582063,
-      "lat": 34.7209060,
-      "lon": 135.4832624,
-      "timestamp": "2024-02-25T05:38:56Z",
-      "version": 2,
-      "changeset": 147878117,
-      "user": "Wish_F",
-      "uid": 6972989,
-      "tags": {
-        "amenity": "bar",
-        "check_date": "2024-02-25",
-        "level": "0",
-        "name": "boNds"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126584571,
-      "lat": 34.7215039,
-      "lon": 135.4812783,
-      "timestamp": "2023-08-19T02:34:50Z",
-      "version": 1,
-      "changeset": 140079231,
-      "user": "knkouki",
-      "uid": 20091202,
-      "tags": {
-        "amenity": "bar",
-        "check_date": "2023-08-19",
-        "name": "DREAM ROAD"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126593773,
-      "lat": 34.7203021,
-      "lon": 135.4805261,
-      "timestamp": "2023-08-28T02:11:58Z",
-      "version": 2,
-      "changeset": 140473053,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "pub",
-        "check_date": "2023-08-19",
-        "contact:twitter": "@8eV6hut4JX39iL5",
-        "name": "縁ン貯メ酒場　達磨",
-        "website": "https://twitter.com/8eV6hut4JX39iL5/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126621592,
-      "lat": 34.7209550,
-      "lon": 135.4829499,
-      "timestamp": "2024-07-14T12:41:06Z",
-      "version": 2,
-      "changeset": 153928907,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "bar",
-        "check_date": "2023-08-19",
-        "contact:instagram": "bar_under_dog",
-        "name": "ジャズ喫茶UNDER DOG"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126628935,
-      "lat": 34.7207896,
-      "lon": 135.4829525,
-      "timestamp": "2024-07-14T12:42:59Z",
-      "version": 2,
-      "changeset": 153928972,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "pub",
-        "check_date": "2023-08-19",
-        "contact:instagram": "yakiniku_kokokara13",
-        "name": "ちょっと安めなホルモン焼肉ここから",
-        "website": "https://issei-kokokara.com/shop/juusou/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126629972,
-      "lat": 34.7229633,
-      "lon": 135.4852759,
-      "timestamp": "2023-08-28T00:19:56Z",
-      "version": 2,
-      "changeset": 140471511,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "check_date": "2023-08-19",
-        "contact:instagram": "sugimoto_shashinkan/",
-        "craft": "photographer",
-        "name": "杉本寫眞館",
-        "website": "https://www.instagram.com/sugimoto_shashinkan/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126651568,
-      "lat": 34.7209775,
-      "lon": 135.4812998,
-      "timestamp": "2024-07-14T13:37:32Z",
-      "version": 4,
-      "changeset": 153931128,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2024-07-03",
-        "contact:instagram": "cafeteria_pescenero",
-        "name": "ペッシェ ネロ",
-        "name:en": "PESCE NERO",
-        "name:ja": "ペッシェ ネロ"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126662325,
-      "lat": 34.7202220,
-      "lon": 135.4806764,
-      "timestamp": "2024-07-14T13:49:38Z",
-      "version": 2,
-      "changeset": 153931626,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "pub",
-        "check_date": "2023-08-19",
-        "name": "一房屋",
-        "website": "https://www.hitohusaya.jp/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126662334,
-      "lat": 34.7211869,
-      "lon": 135.4879876,
-      "timestamp": "2024-07-14T13:21:38Z",
-      "version": 2,
-      "changeset": 153930484,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2023-08-19",
-        "contact:instagram": "fuyo_mabo_men",
-        "name": "芙蓉麻婆麺"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126666845,
-      "lat": 34.7207805,
-      "lon": 135.4829981,
-      "timestamp": "2024-07-14T12:44:50Z",
-      "version": 2,
-      "changeset": 153929031,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "cafe",
-        "check_date": "2023-08-19",
-        "contact:instagram": "2323barcode",
-        "name": "ふさふさバーコード",
-        "website": "https://www.fusafusabarcode.com/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126669548,
-      "lat": 34.7195834,
-      "lon": 135.4807194,
-      "timestamp": "2023-08-28T02:01:05Z",
-      "version": 3,
-      "changeset": 140472922,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2023-08-19",
-        "contact:instagram": "monja_teppan_jujuju/",
-        "name": "もんじゃ&鉄板ワイン酒場 JUJUJU",
-        "website": "https://www.instagram.com/monja_teppan_jujuju/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126674605,
-      "lat": 34.7215574,
-      "lon": 135.4808058,
-      "timestamp": "2024-07-14T13:46:17Z",
-      "version": 2,
-      "changeset": 153931495,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2023-08-19",
-        "name": "めがねや",
-        "website": "https://meganeya-jyuso.owst.jp/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126676899,
-      "lat": 34.7198331,
-      "lon": 135.4818371,
-      "timestamp": "2023-08-19T03:12:29Z",
-      "version": 1,
-      "changeset": 140079658,
-      "user": "creaplum",
-      "uid": 20091199,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2023-08-19",
-        "name": "ハレッパキッチン"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126682005,
-      "lat": 34.7207959,
-      "lon": 135.4808458,
-      "timestamp": "2024-07-14T13:34:56Z",
-      "version": 3,
-      "changeset": 153931005,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "bar",
-        "check_date": "2023-08-19",
-        "contact:instagram": "en.juso",
-        "level": "0",
-        "name": "eN."
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126688931,
-      "lat": 34.7203285,
-      "lon": 135.4805317,
-      "timestamp": "2024-07-14T13:50:44Z",
-      "version": 2,
-      "changeset": 153931673,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "bar",
-        "check_date": "2023-08-19",
-        "contact:instagram": "yururito_kaishinno_ichigeki",
-        "name": "ゆるりと会心の一撃"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126761087,
-      "lat": 34.7180675,
-      "lon": 135.4736695,
-      "timestamp": "2023-08-19T05:36:08Z",
-      "version": 2,
-      "changeset": 140081312,
-      "user": "CAFEYUTTE",
-      "uid": 8768240,
-      "tags": {
-        "check_date": "2023-08-19",
-        "name": "善",
-        "shop": "bakery"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126776503,
-      "lat": 34.7211515,
-      "lon": 135.4814189,
-      "timestamp": "2023-08-19T05:25:56Z",
-      "version": 1,
-      "changeset": 140081159,
-      "user": "Shinji Enoki",
-      "uid": 420519,
-      "tags": {
-        "amenity": "pub",
-        "check_date": "2023-08-19",
-        "name": "スタンド ソバサンカク＋ヒツジホシ"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126789326,
-      "lat": 34.7197403,
-      "lon": 135.4841780,
-      "timestamp": "2024-07-14T13:24:28Z",
-      "version": 3,
-      "changeset": 153930578,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "pub",
-        "check_date": "2023-08-19",
-        "contact:instagram": "nihonnoosaketoategonzou",
-        "name": "日本のお酒とアテ ごんぞー",
-        "name:ja": "日本のお酒とアテ ごんぞー"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126793588,
-      "lat": 34.7188946,
-      "lon": 135.4811848,
-      "timestamp": "2024-07-14T14:05:39Z",
-      "version": 2,
-      "changeset": 153932238,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "addr:floor": "3",
-        "amenity": "bar",
-        "check_date": "2023-08-19",
-        "contact:instagram": "13bar_zappa",
-        "level": "2",
-        "name": "Bar 雑葉"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126804287,
-      "lat": 34.7192575,
-      "lon": 135.4809971,
-      "timestamp": "2023-08-19T05:50:26Z",
-      "version": 1,
-      "changeset": 140081608,
-      "user": "Shinji Enoki",
-      "uid": 420519,
-      "tags": {
-        "amenity": "pub",
-        "check_date": "2023-08-19",
-        "name": "有馬家"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126804288,
-      "lat": 34.7191751,
-      "lon": 135.4804892,
-      "timestamp": "2023-08-28T02:02:56Z",
-      "version": 2,
-      "changeset": 140472942,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2023-08-19",
-        "name": "串かつ角栄",
-        "phone": "+816-6308-1977",
-        "website": "https://kakuei.gorp.jp/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126804289,
-      "lat": 34.7191761,
-      "lon": 135.4805311,
-      "timestamp": "2024-07-14T14:03:36Z",
-      "version": 2,
-      "changeset": 153932172,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "bar",
-        "check_date": "2023-08-19",
-        "name": "BACK DOOR JUSO",
-        "website": "https://juso.backdoor.casino/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126814462,
-      "lat": 34.7184655,
-      "lon": 135.4779750,
-      "timestamp": "2024-07-14T14:16:10Z",
-      "version": 2,
-      "changeset": 153932693,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "bar",
-        "check_date": "2023-08-19",
-        "contact:instagram": "alien_lab_69",
-        "name": "AILEN LAB"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126829669,
-      "lat": 34.7188321,
-      "lon": 135.4800385,
-      "timestamp": "2023-08-19T05:55:39Z",
-      "version": 1,
-      "changeset": 140081696,
-      "user": "Wish_F",
-      "uid": 6972989,
-      "tags": {
-        "amenity": "bar",
-        "check_date": "2023-08-19",
-        "level": "0",
-        "name": "bar カルカロドン・カルカリィス"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126829670,
-      "lat": 34.7297239,
-      "lon": 135.4956178,
-      "timestamp": "2024-07-14T13:01:58Z",
-      "version": 2,
-      "changeset": 153929777,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "fast_food",
-        "check_date": "2023-08-19",
-        "contact:instagram": "crepe_rose_osaka",
-        "cuisine": "juice",
-        "level": "0",
-        "name": "クレープ ローゼ"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126833705,
-      "lat": 34.7241230,
-      "lon": 135.4863196,
-      "timestamp": "2023-08-28T01:03:01Z",
-      "version": 2,
-      "changeset": 140472148,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "doctors",
-        "check_date": "2023-08-19",
-        "healthcare": "doctor",
-        "name": "にじいろ助産院",
-        "website": "https://nijiiro-mamanote.amebaownd.com/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126858310,
-      "lat": 34.7210998,
-      "lon": 135.4831924,
-      "timestamp": "2023-08-28T02:37:32Z",
-      "version": 2,
-      "changeset": 140473364,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "addr:floor": "3",
-        "amenity": "theatre",
-        "check_date": "2023-08-19",
-        "contact:instagram": "sotoba_komachi",
-        "contact:twitter": "@sotoba_komachi",
-        "level": "4",
-        "name": "劇団そとばこまち",
-        "website": "https://sotobakomachi.com/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11126858315,
-      "lat": 34.7189074,
-      "lon": 135.4772676,
-      "timestamp": "2023-08-19T06:30:17Z",
-      "version": 1,
-      "changeset": 140082281,
-      "user": "asuasu",
-      "uid": 10224798,
-      "tags": {
-        "amenity": "cafe",
-        "check_date": "2023-08-19",
-        "name": "喫茶チロリン"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11127494403,
-      "lat": 34.7249769,
-      "lon": 135.4898954,
-      "timestamp": "2023-08-19T12:48:29Z",
-      "version": 1,
-      "changeset": 140093581,
-      "user": "CAFEYUTTE",
-      "uid": 8768240,
-      "tags": {
-        "amenity": "cafe",
-        "check_date": "2023-08-19",
-        "name": "空理庵"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11149217849,
-      "lat": 34.7176505,
-      "lon": 135.4745299,
-      "timestamp": "2023-08-28T00:05:50Z",
-      "version": 1,
-      "changeset": 140471351,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "cuisine": "indian",
-        "name": "タリー"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11149218026,
-      "lat": 34.7205247,
-      "lon": 135.4792164,
-      "timestamp": "2024-07-14T13:52:00Z",
-      "version": 3,
-      "changeset": 153931720,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "pub",
-        "check_date": "2024-07-11",
-        "contact:instagram": "guriguri13_2005",
-        "name": "出来立て豆腐の居酒屋 ぐりぐり",
-        "website": "https://guriguri-juso.foodre.jp/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11149223080,
-      "lat": 34.7260831,
-      "lon": 135.4875977,
-      "timestamp": "2023-08-28T01:15:18Z",
-      "version": 1,
-      "changeset": 140472284,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "name": "鳥焼 とり丸"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11149251245,
-      "lat": 34.7197346,
-      "lon": 135.4861733,
-      "timestamp": "2023-11-03T06:49:48Z",
-      "version": 2,
-      "changeset": 143560041,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "pub",
-        "name": "利久"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11149268158,
-      "lat": 34.7182903,
-      "lon": 135.4761186,
-      "timestamp": "2024-07-14T14:12:54Z",
-      "version": 2,
-      "changeset": 153932534,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "contact:instagram": "jusosushiyatai",
-        "name": "十三すし屋台"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11149273388,
-      "lat": 34.7188618,
-      "lon": 135.4762254,
-      "timestamp": "2023-08-28T01:21:05Z",
-      "version": 1,
-      "changeset": 140472346,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "name": "北の屋"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11247666885,
-      "lat": 34.7208808,
-      "lon": 135.4833347,
-      "timestamp": "2024-02-25T08:22:15Z",
-      "version": 3,
-      "changeset": 147880723,
-      "user": "Wish_F",
-      "uid": 6972989,
-      "tags": {
-        "amenity": "fast_food",
-        "check_date": "2024-02-25",
-        "name": "庵美堂",
-        "opening_hours": "Mo off; Tu-Su 11:30-15:00,17:00-20:00"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11329275494,
-      "lat": 34.7207152,
-      "lon": 135.4862634,
-      "timestamp": "2023-11-06T13:49:07Z",
-      "version": 1,
-      "changeset": 143694460,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "fast_food",
-        "contact:instagram": "osaka_iggy",
-        "cuisine": "regional",
-        "name": "大阪イギー"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11331134503,
-      "lat": 34.7192912,
-      "lon": 135.4751572,
-      "timestamp": "2023-11-07T14:07:30Z",
-      "version": 2,
-      "changeset": 143738944,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "cafe",
-        "contact:instagram": "titan_studyandcafe",
-        "name": "Study&Cafe タイタン"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11405362640,
-      "lat": 34.7223742,
-      "lon": 135.4848536,
-      "timestamp": "2024-07-14T12:37:52Z",
-      "version": 3,
-      "changeset": 153928752,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "coworking_space",
-        "check_date": "2024-07-08",
-        "contact:instagram": "tsunagari_you",
-        "name": "つながり食堂 結 -You-",
-        "website": "https://cosodate-coworking-you.my.canva.site/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11801069878,
-      "lat": 34.7226336,
-      "lon": 135.4862855,
-      "timestamp": "2024-07-10T13:47:04Z",
-      "version": 2,
-      "changeset": 153785501,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "doctors",
-        "check_date": "2024-04-08",
-        "contact:instagram": "mama.no.te.to.chabudai",
-        "healthcare": "doctor",
-        "name": "ままのて"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11897992480,
-      "lat": 34.7245187,
-      "lon": 135.4842199,
-      "timestamp": "2024-07-10T14:37:05Z",
-      "version": 2,
-      "changeset": 153787792,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "cafe",
-        "check_date": "2024-05-12",
-        "contact:instagram": "rahat_tearoom",
-        "name:ja": "喫茶室ラハト",
-        "outdoor_seating": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11957976826,
-      "lat": 34.7216204,
-      "lon": 135.4815537,
-      "timestamp": "2024-07-10T14:17:50Z",
-      "version": 2,
-      "changeset": 153786975,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2024-06-05",
-        "cuisine": "barbecue",
-        "name": "牛串あきね",
-        "website": "https://gyuukushi-akine.com/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11968164187,
-      "lat": 34.7164104,
-      "lon": 135.4806100,
-      "timestamp": "2024-07-14T14:09:11Z",
-      "version": 3,
-      "changeset": 153932361,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2024-06-10",
-        "contact:instagram": "udonmaru2021",
-        "name": "うどん食堂まる"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12047383949,
-      "lat": 34.7198338,
-      "lon": 135.4791167,
-      "timestamp": "2024-07-14T13:53:43Z",
-      "version": 3,
-      "changeset": 153931768,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "check_date": "2024-07-11;2024-07-13",
-        "contact:instagram": "juso_brewery",
-        "craft": "brewery",
-        "name": "十三ブリュワリー"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12048152575,
-      "lat": 34.7193607,
-      "lon": 135.4774502,
-      "timestamp": "2024-07-14T14:17:40Z",
-      "version": 2,
-      "changeset": 153932762,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "cafe",
-        "check_date": "2024-07-11",
-        "contact:instagram": "nanatcafe",
-        "name": "NANA&T CAFÉ"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12048152576,
-      "lat": 34.7188774,
-      "lon": 135.4761815,
-      "timestamp": "2024-07-14T14:13:42Z",
-      "version": 2,
-      "changeset": 153932557,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2024-07-11",
-        "contact:instagram": "pole_pole13",
-        "cuisine": "indian",
-        "name": "スパイスカレーとカヌレのお店 polepole"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12048152579,
-      "lat": 34.7153277,
-      "lon": 135.4752228,
-      "timestamp": "2024-07-14T05:33:24Z",
-      "version": 3,
-      "changeset": 153916784,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2024-07-11",
-        "contact:instagram": "dining_mico",
-        "name": "ダイニングMico"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12048152582,
-      "lat": 34.7199961,
-      "lon": 135.4843393,
-      "timestamp": "2024-07-14T05:24:00Z",
-      "version": 2,
-      "changeset": 153916629,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "check_date": "2024-07-11",
-        "contact:phone": "+81 6-6777-7640",
-        "healthcare": "alternative",
-        "healthcare:speciality": "acupuncture",
-        "level": "2",
-        "name": "小竹鍼灸院",
-        "website": "http://sinkyu.jp/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12050752329,
-      "lat": 34.7241484,
-      "lon": 135.4870340,
-      "timestamp": "2024-07-14T12:57:41Z",
-      "version": 2,
-      "changeset": 153929595,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "check_date": "2024-07-13",
-        "name": "のむら化粧品店",
-        "shop": "cosmetics",
-        "website": "https://nomura13.jimdofree.com/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12050752330,
-      "lat": 34.7209191,
-      "lon": 135.4853139,
-      "timestamp": "2024-07-14T13:22:21Z",
-      "version": 2,
-      "changeset": 153930507,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "social_facility",
-        "check_date": "2024-07-13",
-        "name": "ひろば",
-        "website": "https://empowermentsc.net/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12050752331,
-      "lat": 34.7247826,
-      "lon": 135.4864453,
-      "timestamp": "2024-07-14T05:40:29Z",
-      "version": 2,
-      "changeset": 153916895,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "fast_food",
-        "check_date": "2024-07-13",
-        "contact:instagram": "another_acai",
-        "fast_food": "cafeteria",
-        "name": "AnotheR/アサイーボウル"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12050901244,
-      "lat": 34.7232189,
-      "lon": 135.4874702,
-      "timestamp": "2024-07-14T12:54:39Z",
-      "version": 2,
-      "changeset": 153929448,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "community_centre",
-        "check_date": "2024-07-13",
-        "name": "よどがわベース",
-        "website": "https://clack.ne.jp/service#yodogawa"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12050911538,
-      "lat": 34.7186028,
-      "lon": 135.4861304,
-      "timestamp": "2024-07-14T05:56:19Z",
-      "version": 2,
-      "changeset": 153917157,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2024-07-13",
-        "contact:instagram": "cafe._.67",
-        "name": "WINE cafe 67"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12050912737,
-      "lat": 34.7229466,
-      "lon": 135.4880703,
-      "timestamp": "2024-07-14T04:58:15Z",
-      "version": 2,
-      "changeset": 153916209,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "fast_food",
-        "check_date": "2024-07-13",
-        "cuisine": "takoyaki",
-        "name": "小泉商店"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12050913238,
-      "lat": 34.7227459,
-      "lon": 135.4847470,
-      "timestamp": "2024-07-14T05:14:55Z",
-      "version": 2,
-      "changeset": 153916487,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2024-07-13",
-        "contact:instagram": "maruhhi_k2",
-        "name": "まるっひ　Ｋ２"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12050929078,
-      "lat": 34.7215402,
-      "lon": 135.4863114,
-      "timestamp": "2024-07-14T10:29:48Z",
-      "version": 2,
-      "changeset": 153924325,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "cafe",
-        "check_date": "2024-07-13",
-        "contact:instagram": "tearoom_newtiger",
-        "name": "喫茶ニュータイガー"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12050929500,
-      "lat": 34.7216142,
-      "lon": 135.4854406,
-      "timestamp": "2024-07-14T05:04:49Z",
-      "version": 2,
-      "changeset": 153916330,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "community_centre",
-        "check_date": "2024-07-13",
-        "contact:instagram": "bibbidi_bobbidi_bu_from_osaka",
-        "name": "ビビディバビディ部",
-        "website": "https://bbborjp.notion.site/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12050931965,
-      "lat": 34.7189938,
-      "lon": 135.4805976,
-      "timestamp": "2024-07-13T13:45:39Z",
-      "version": 1,
-      "changeset": 153894278,
-      "user": "CAFEYUTTE",
-      "uid": 8768240,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2024-07-13",
-        "cuisine": "barbecue",
-        "name": "0秒レモンサワーときわ亭 十三西口店"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12050932251,
-      "lat": 34.7251247,
-      "lon": 135.4904997,
-      "timestamp": "2024-07-14T05:17:26Z",
-      "version": 2,
-      "changeset": 153916517,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "restaurant",
-        "check_date": "2024-07-13",
-        "contact:instagram": "kisen_hanare",
-        "cuisine": "japanese",
-        "name": "喜仙はなれ"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12050937658,
-      "lat": 34.7205926,
-      "lon": 135.4866907,
-      "timestamp": "2024-07-14T05:50:35Z",
-      "version": 2,
-      "changeset": 153917050,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "pharmacy",
-        "check_date": "2024-07-13",
-        "healthcare": "pharmacy",
-        "name": "ピスタチオ薬局",
-        "website": "https://firstcat222.com/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12050951729,
-      "lat": 34.7224432,
-      "lon": 135.4880250,
-      "timestamp": "2024-07-14T13:16:03Z",
-      "version": 2,
-      "changeset": 153930244,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "tags": {
-        "amenity": "marketplace",
-        "check_date": "2024-07-13",
-        "contact:facebook": "https://www.facebook.com/share_channel/",
-        "name": "鳥畑豆腐店",
-        "website": "https://torihata-toufu.jimdofree.com/"
-      }
-    },
-    {
-      "type": "way",
-      "id": 224702424,
-      "timestamp": "2023-10-08T08:53:28Z",
-      "version": 3,
-      "changeset": 142295400,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "nodes": [
-        2334970239,
-        2334970234,
-        2334970219,
-        2334970225,
-        2334970239
-      ],
-      "tags": {
-        "amenity": "studio",
-        "building": "yes",
-        "building:levels": "3",
-        "name": "LanMusic Studio",
-        "roof:shape": "flat",
-        "source": "GSI/KIBAN 2500; NARO",
-        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
-      }
-    },
-    {
-      "type": "way",
-      "id": 270879394,
-      "timestamp": "2023-02-16T09:48:52Z",
-      "version": 4,
-      "changeset": 132619461,
-      "user": "solenoid jam",
-      "uid": 10129333,
-      "nodes": [
-        2758420751,
-        2758420752,
-        2758420753,
-        2758420755,
-        2758420751
-      ],
-      "tags": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "jodo_shinshu",
-        "name": "昭光寺",
-        "religion": "buddhist",
-        "source": "Bing,2011-4"
-      }
-    },
-    {
-      "type": "way",
-      "id": 305223121,
-      "timestamp": "2023-08-28T00:45:57Z",
-      "version": 3,
-      "changeset": 140471917,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "nodes": [
-        3098230900,
-        3098230902,
-        3098230896,
-        3098230892,
-        3098230900
-      ],
-      "tags": {
-        "amenity": "restaurant",
-        "building": "yes",
-        "contact:instagram": "kanteki_juso",
-        "cuisine": "barbecue",
-        "name": "さすらいのカンテキ",
-        "source": "GSI/KIBAN 2500;NARO",
-        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN",
-        "takeaway": "no",
-        "website": "https://www.instagram.com/kanteki_juso/"
-      }
-    },
-    {
-      "type": "way",
-      "id": 323990572,
-      "timestamp": "2022-11-05T14:41:13Z",
-      "version": 3,
-      "changeset": 128523527,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "nodes": [
-        3307525032,
-        3307525019,
-        3307525027,
-        3307525042,
-        3307525032
-      ],
-      "tags": {
-        "amenity": "social_facility",
-        "building": "yes",
-        "name": "PALETTE",
-        "website": "https://palette-osaka.com/"
-      }
-    },
-    {
-      "type": "way",
-      "id": 796878263,
-      "timestamp": "2024-07-14T13:33:07Z",
-      "version": 4,
-      "changeset": 153930941,
-      "user": "K_Sakanoshita",
-      "uid": 389520,
-      "nodes": [
-        7452600587,
-        7452600586,
-        7452600585,
-        7452595984,
-        7452600587
-      ],
-      "tags": {
-        "amenity": "bar",
-        "building": "yes",
-        "check_date": "2023-08-19",
-        "name": "十三トリス",
-        "website": "http://13torys.web.fc2.com/index.html"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2334970219,
-      "lat": 34.7234653,
-      "lon": 135.4843273
-    },
-    {
-      "type": "node",
-      "id": 2334970225,
-      "lat": 34.7234675,
-      "lon": 135.4844137
-    },
-    {
-      "type": "node",
-      "id": 2334970234,
-      "lat": 34.7234793,
-      "lon": 135.4843257
-    },
-    {
-      "type": "node",
-      "id": 2334970239,
-      "lat": 34.7235195,
-      "lon": 135.4844103
-    },
-    {
-      "type": "node",
-      "id": 2758420751,
-      "lat": 34.7266729,
-      "lon": 135.4936934
-    },
-    {
-      "type": "node",
-      "id": 2758420752,
-      "lat": 34.7265427,
-      "lon": 135.4936982
-    },
-    {
-      "type": "node",
-      "id": 2758420753,
-      "lat": 34.7265496,
-      "lon": 135.4939046
-    },
-    {
-      "type": "node",
-      "id": 2758420755,
-      "lat": 34.7266788,
-      "lon": 135.4938998
-    },
-    {
-      "type": "node",
-      "id": 3098230892,
-      "lat": 34.7203793,
-      "lon": 135.4816925
-    },
-    {
-      "type": "node",
-      "id": 3098230896,
-      "lat": 34.7203968,
-      "lon": 135.4817528
-    },
-    {
-      "type": "node",
-      "id": 3098230900,
-      "lat": 34.7204003,
-      "lon": 135.4816835
-    },
-    {
-      "type": "node",
-      "id": 3098230902,
-      "lat": 34.7204178,
-      "lon": 135.4817438
-    },
-    {
-      "type": "node",
-      "id": 3307525019,
-      "lat": 34.7241179,
-      "lon": 135.4741363
-    },
-    {
-      "type": "node",
-      "id": 3307525027,
-      "lat": 34.7241743,
-      "lon": 135.4743019
-    },
-    {
-      "type": "node",
-      "id": 3307525032,
-      "lat": 34.7243079,
-      "lon": 135.4740407
-    },
-    {
-      "type": "node",
-      "id": 3307525042,
-      "lat": 34.7243642,
-      "lon": 135.4742063
-    },
-    {
-      "type": "node",
-      "id": 7452595984,
-      "lat": 34.7201570,
-      "lon": 135.4819071
-    },
-    {
-      "type": "node",
-      "id": 7452600585,
-      "lat": 34.7201899,
-      "lon": 135.4820155
-    },
-    {
-      "type": "node",
-      "id": 7452600586,
-      "lat": 34.7202166,
-      "lon": 135.4820035
-    },
-    {
-      "type": "node",
-      "id": 7452600587,
-      "lat": 34.7201837,
-      "lon": 135.4818951
-    },
-    {
-      "type": "node",
       "id": 2802526723,
       "lat": 34.7329721,
       "lon": 135.5007908,
-      "timestamp": "2018-05-06T06:38:13Z",
-      "version": 2,
-      "changeset": 58722009,
-      "user": "xkrautsc",
-      "uid": 5283635,
       "tags": {
         "amenity": "bicycle_rental",
         "operator": "レンタサイクル駅リンくん新大阪店",
@@ -3011,14 +1362,31 @@
     },
     {
       "type": "node",
+      "id": 8151066484,
+      "lat": 34.7165779,
+      "lon": 135.5164921,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:website": "https://docomo-cycle.jp/",
+        "brand:wikidata": "Q55533296",
+        "capacity": "6",
+        "fee": "yes",
+        "gbfs:name": "A-29.UR リバーサイドながら",
+        "gbfs:station_id": "7766",
+        "gbfs:system_id": "docomo-cycle",
+        "name": "UR リバーサイドながら",
+        "network": "HubChari",
+        "ref": "A-29"
+      }
+    },
+    {
+      "type": "node",
       "id": 9921926092,
       "lat": 34.7167676,
       "lon": 135.4805332,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 4,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -3042,11 +1410,6 @@
       "id": 10697255006,
       "lat": 34.7374630,
       "lon": 135.4961369,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 4,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3074,73 +1437,25 @@
     },
     {
       "type": "node",
-      "id": 11013361206,
-      "lat": 34.7403947,
-      "lon": 135.4935712,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 4,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
+      "id": 11036616932,
+      "lat": 34.7174187,
+      "lon": 135.5171222,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
-        "branch": "セブンイレブン　大阪東三国4丁目店",
         "brand": "HELLO CYCLING",
-        "brand:en": "HELLO CYCLING",
         "brand:ja": "ハローサイクリング",
         "brand:wikidata": "Q91231927",
-        "capacity": "6",
-        "check_date": "2023-06-29",
+        "capacity": "16",
         "contact:website": "https://www.hellocycling.jp",
         "fee": "yes",
-        "gbfs:station_id": "1909",
+        "gbfs:station_id": "11993",
         "gbfs:system_id": "hellocycling",
-        "level": "0",
-        "name": "HELLO CYCLING",
-        "name:en": "HELLO CYCLING",
-        "name:ja": "ハローサイクリング",
+        "name": "URリバーサイドながら",
         "network": "HELLO CYCLING",
-        "network:en": "HELLO CYCLING",
         "network:ja": "ハローサイクリング",
-        "network:wikidata": "Q91231927",
-        "operator": "OpenStreet",
-        "operator:wikidata": "Q43593262"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11031170182,
-      "lat": 34.7409790,
-      "lon": 135.4415350,
-      "timestamp": "2024-05-04T13:20:21Z",
-      "version": 3,
-      "changeset": 150879788,
-      "user": "Ikuta",
-      "uid": 2217888,
-      "tags": {
-        "addr:province": "兵庫県",
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "brand": "HELLO CYCLING",
-        "brand:en": "HELLO CYCLING",
-        "brand:ja": "ハローサイクリング",
-        "brand:wikidata": "Q91231927",
-        "capacity": "4",
-        "contact:website": "https://www.hellocycling.jp",
-        "fee": "yes",
-        "gbfs:station_id": "4227",
-        "gbfs:system_id": "hellocycling",
-        "name": "サイクルベースあさひ尼崎次屋店",
-        "name:en": "HELLO CYCLING",
-        "name:ja": "ハローサイクリング",
-        "network": "HELLO CYCLING",
-        "network:en": "HELLO CYCLING",
-        "network:ja": "ハローサイクリング",
-        "network:wikidata": "Q91231927",
-        "operator": "OpenStreet",
-        "operator:wikidata": "Q43593262"
+        "network:wikidata": "Q91231927"
       }
     },
     {
@@ -3148,11 +1463,6 @@
       "id": 11036616992,
       "lat": 34.7300906,
       "lon": 135.4970539,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3173,42 +1483,9 @@
     },
     {
       "type": "node",
-      "id": 11036637414,
-      "lat": 34.7104405,
-      "lon": 135.4549026,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
-      "tags": {
-        "addr:province": "大阪府",
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "brand": "HELLO CYCLING",
-        "brand:ja": "ハローサイクリング",
-        "brand:wikidata": "Q91231927",
-        "capacity": "17",
-        "contact:website": "https://www.hellocycling.jp",
-        "fee": "yes",
-        "gbfs:station_id": "7986",
-        "gbfs:system_id": "hellocycling",
-        "name": "ヤナセ大阪支店メルセデス・ベンツ西淀川",
-        "network": "HELLO CYCLING",
-        "network:ja": "ハローサイクリング",
-        "network:wikidata": "Q91231927"
-      }
-    },
-    {
-      "type": "node",
       "id": 11036637451,
       "lat": 34.7348651,
       "lon": 135.4842032,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 3,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3232,11 +1509,6 @@
       "id": 11036637489,
       "lat": 34.7228880,
       "lon": 135.4907570,
-      "timestamp": "2024-05-14T15:44:19Z",
-      "version": 3,
-      "changeset": 151319169,
-      "user": "beach_valley",
-      "uid": 21478954,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3258,42 +1530,9 @@
     },
     {
       "type": "node",
-      "id": 11036637493,
-      "lat": 34.7121501,
-      "lon": 135.4455176,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
-      "tags": {
-        "addr:province": "大阪府",
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "brand": "HELLO CYCLING",
-        "brand:ja": "ハローサイクリング",
-        "brand:wikidata": "Q91231927",
-        "capacity": "5",
-        "contact:website": "https://www.hellocycling.jp",
-        "fee": "yes",
-        "gbfs:station_id": "7835",
-        "gbfs:system_id": "hellocycling",
-        "name": "阪神千船駐輪場",
-        "network": "HELLO CYCLING",
-        "network:ja": "ハローサイクリング",
-        "network:wikidata": "Q91231927"
-      }
-    },
-    {
-      "type": "node",
       "id": 11036637513,
       "lat": 34.7288995,
       "lon": 135.4607875,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3317,11 +1556,6 @@
       "id": 11036637529,
       "lat": 34.7162453,
       "lon": 135.4684900,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3342,42 +1576,9 @@
     },
     {
       "type": "node",
-      "id": 11036637533,
-      "lat": 34.7070980,
-      "lon": 135.5020410,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
-      "tags": {
-        "addr:province": "大阪府",
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "brand": "HELLO CYCLING",
-        "brand:ja": "ハローサイクリング",
-        "brand:wikidata": "Q91231927",
-        "capacity": "6",
-        "contact:website": "https://www.hellocycling.jp",
-        "fee": "yes",
-        "gbfs:station_id": "1913",
-        "gbfs:system_id": "hellocycling",
-        "name": "セブンイレブン　大阪鶴野東店",
-        "network": "HELLO CYCLING",
-        "network:ja": "ハローサイクリング",
-        "network:wikidata": "Q91231927"
-      }
-    },
-    {
-      "type": "node",
       "id": 11036637540,
       "lat": 34.7249823,
       "lon": 135.4994964,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 3,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3401,11 +1602,6 @@
       "id": 11036637541,
       "lat": 34.7246613,
       "lon": 135.4825999,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3426,14 +1622,55 @@
     },
     {
       "type": "node",
+      "id": 11036637543,
+      "lat": 34.7158776,
+      "lon": 135.5081790,
+      "tags": {
+        "addr:province": "大阪府",
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "HELLO CYCLING",
+        "brand:ja": "ハローサイクリング",
+        "brand:wikidata": "Q91231927",
+        "capacity": "6",
+        "contact:website": "https://www.hellocycling.jp",
+        "fee": "yes",
+        "gbfs:station_id": "11992",
+        "gbfs:system_id": "hellocycling",
+        "name": "URリバーサイドほんじょう",
+        "network": "HELLO CYCLING",
+        "network:ja": "ハローサイクリング",
+        "network:wikidata": "Q91231927"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11036637546,
+      "lat": 34.7122748,
+      "lon": 135.5163015,
+      "tags": {
+        "addr:province": "大阪府",
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "HELLO CYCLING",
+        "brand:ja": "ハローサイクリング",
+        "brand:wikidata": "Q91231927",
+        "capacity": "12",
+        "contact:website": "https://www.hellocycling.jp",
+        "fee": "yes",
+        "gbfs:station_id": "11994",
+        "gbfs:system_id": "hellocycling",
+        "name": "URさざなみプラザ第７",
+        "network": "HELLO CYCLING",
+        "network:ja": "ハローサイクリング",
+        "network:wikidata": "Q91231927"
+      }
+    },
+    {
+      "type": "node",
       "id": 11036637551,
       "lat": 34.7159410,
       "lon": 135.4742960,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3454,70 +1691,9 @@
     },
     {
       "type": "node",
-      "id": 11036637645,
-      "lat": 34.7400190,
-      "lon": 135.4779690,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
-      "tags": {
-        "addr:province": "大阪府",
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "brand": "HELLO CYCLING",
-        "brand:ja": "ハローサイクリング",
-        "brand:wikidata": "Q91231927",
-        "capacity": "5",
-        "contact:website": "https://www.hellocycling.jp",
-        "fee": "yes",
-        "gbfs:station_id": "3736",
-        "gbfs:system_id": "hellocycling",
-        "name": "神崎刀根山線神州町",
-        "network": "HELLO CYCLING",
-        "network:ja": "ハローサイクリング",
-        "network:wikidata": "Q91231927"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11036637646,
-      "lat": 34.7089340,
-      "lon": 135.4440224,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
-      "tags": {
-        "addr:province": "大阪府",
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "brand": "HELLO CYCLING",
-        "brand:ja": "ハローサイクリング",
-        "brand:wikidata": "Q91231927",
-        "capacity": "5",
-        "contact:website": "https://www.hellocycling.jp",
-        "fee": "yes",
-        "gbfs:station_id": "7648",
-        "gbfs:system_id": "hellocycling",
-        "name": "大和田北公園",
-        "network": "HELLO CYCLING",
-        "network:ja": "ハローサイクリング",
-        "network:wikidata": "Q91231927"
-      }
-    },
-    {
-      "type": "node",
       "id": 11036637647,
       "lat": 34.7351780,
       "lon": 135.4704230,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3541,11 +1717,6 @@
       "id": 11036637653,
       "lat": 34.7350720,
       "lon": 135.4618550,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3569,11 +1740,6 @@
       "id": 11036637666,
       "lat": 34.7303777,
       "lon": 135.4876846,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3597,11 +1763,6 @@
       "id": 11036637741,
       "lat": 34.7155880,
       "lon": 135.4564340,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3622,14 +1783,9 @@
     },
     {
       "type": "node",
-      "id": 11036637794,
-      "lat": 34.7178494,
-      "lon": 135.4479209,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
+      "id": 11036637797,
+      "lat": 34.7115704,
+      "lon": 135.5136058,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3637,12 +1793,12 @@
         "brand": "HELLO CYCLING",
         "brand:ja": "ハローサイクリング",
         "brand:wikidata": "Q91231927",
-        "capacity": "6",
+        "capacity": "5",
         "contact:website": "https://www.hellocycling.jp",
         "fee": "yes",
-        "gbfs:station_id": "11549",
+        "gbfs:station_id": "9868",
         "gbfs:system_id": "hellocycling",
-        "name": "田蓑神社",
+        "name": "地下鉄天六駅２番出入口駐輪場①",
         "network": "HELLO CYCLING",
         "network:ja": "ハローサイクリング",
         "network:wikidata": "Q91231927"
@@ -3653,11 +1809,6 @@
       "id": 11036637798,
       "lat": 34.7335003,
       "lon": 135.5048423,
-      "timestamp": "2024-02-16T17:03:32Z",
-      "version": 4,
-      "changeset": 147540819,
-      "user": "Wish_F",
-      "uid": 6972989,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3682,11 +1833,6 @@
       "id": 11036637799,
       "lat": 34.7269375,
       "lon": 135.4556046,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3707,77 +1853,9 @@
     },
     {
       "type": "node",
-      "id": 11036637800,
-      "lat": 34.7393754,
-      "lon": 135.4947442,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 3,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
-      "tags": {
-        "addr:province": "大阪府",
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "branch": "システムパーク宮原",
-        "brand": "HELLO CYCLING",
-        "brand:en": "HELLO CYCLING",
-        "brand:ja": "ハローサイクリング",
-        "brand:wikidata": "Q91231927",
-        "capacity": "5",
-        "contact:website": "https://www.hellocycling.jp",
-        "fee": "yes",
-        "gbfs:station_id": "9866",
-        "gbfs:system_id": "hellocycling",
-        "name": "HELLO CYCLING",
-        "name:en": "HELLO CYCLING",
-        "name:ja": "ハローサイクリング",
-        "network": "HELLO CYCLING",
-        "network:en": "HELLO CYCLING",
-        "network:ja": "ハローサイクリング",
-        "network:wikidata": "Q91231927",
-        "operator": "OpenStreet",
-        "operator:wikidata": "Q43593262"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11036637823,
-      "lat": 34.7058109,
-      "lon": 135.5011922,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
-      "tags": {
-        "addr:province": "大阪府",
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "brand": "HELLO CYCLING",
-        "brand:ja": "ハローサイクリング",
-        "brand:wikidata": "Q91231927",
-        "capacity": "3",
-        "contact:website": "https://www.hellocycling.jp",
-        "fee": "yes",
-        "gbfs:station_id": "5911",
-        "gbfs:system_id": "hellocycling",
-        "name": "中崎西2丁目駐輪場",
-        "network": "HELLO CYCLING",
-        "network:ja": "ハローサイクリング",
-        "network:wikidata": "Q91231927"
-      }
-    },
-    {
-      "type": "node",
       "id": 11036637838,
       "lat": 34.7125740,
       "lon": 135.4619000,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3801,11 +1879,6 @@
       "id": 11036637881,
       "lat": 34.7278272,
       "lon": 135.4646176,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3829,11 +1902,6 @@
       "id": 11036637888,
       "lat": 34.7235373,
       "lon": 135.4742950,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3857,11 +1925,6 @@
       "id": 11036637901,
       "lat": 34.7368930,
       "lon": 135.4734830,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3882,70 +1945,9 @@
     },
     {
       "type": "node",
-      "id": 11036637911,
-      "lat": 34.7409557,
-      "lon": 135.4682785,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
-      "tags": {
-        "addr:province": "大阪府",
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "brand": "HELLO CYCLING",
-        "brand:ja": "ハローサイクリング",
-        "brand:wikidata": "Q91231927",
-        "capacity": "8",
-        "contact:website": "https://www.hellocycling.jp",
-        "fee": "yes",
-        "gbfs:station_id": "9497",
-        "gbfs:system_id": "hellocycling",
-        "name": "ファミリーマート豊中島江町",
-        "network": "HELLO CYCLING",
-        "network:ja": "ハローサイクリング",
-        "network:wikidata": "Q91231927"
-      }
-    },
-    {
-      "type": "node",
-      "id": 11036637915,
-      "lat": 34.7411590,
-      "lon": 135.4630870,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
-      "tags": {
-        "addr:province": "大阪府",
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "brand": "HELLO CYCLING",
-        "brand:ja": "ハローサイクリング",
-        "brand:wikidata": "Q91231927",
-        "capacity": "5",
-        "contact:website": "https://www.hellocycling.jp",
-        "fee": "yes",
-        "gbfs:station_id": "4462",
-        "gbfs:system_id": "hellocycling",
-        "name": "庄本町歩路",
-        "network": "HELLO CYCLING",
-        "network:ja": "ハローサイクリング",
-        "network:wikidata": "Q91231927"
-      }
-    },
-    {
-      "type": "node",
       "id": 11176501040,
       "lat": 34.7364192,
       "lon": 135.4563855,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "兵庫県",
         "amenity": "bicycle_rental",
@@ -3969,11 +1971,6 @@
       "id": 11345396842,
       "lat": 34.7296282,
       "lon": 135.4664174,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -3994,14 +1991,32 @@
     },
     {
       "type": "node",
+      "id": 11345396847,
+      "lat": 34.7148162,
+      "lon": 135.5054522,
+      "tags": {
+        "addr:province": "大阪府",
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "HELLO CYCLING",
+        "brand:ja": "ハローサイクリング",
+        "brand:wikidata": "Q91231927",
+        "capacity": "3",
+        "contact:website": "https://www.hellocycling.jp",
+        "fee": "yes",
+        "gbfs:station_id": "12876",
+        "gbfs:system_id": "hellocycling",
+        "name": "コーナンPROWORK&TOOL本庄西店",
+        "network": "HELLO CYCLING",
+        "network:ja": "ハローサイクリング",
+        "network:wikidata": "Q91231927"
+      }
+    },
+    {
+      "type": "node",
       "id": 11345396850,
       "lat": 34.7350145,
       "lon": 135.4929013,
-      "timestamp": "2024-01-02T07:40:57Z",
-      "version": 2,
-      "changeset": 145787074,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -4025,11 +2040,6 @@
       "id": 11434319385,
       "lat": 34.7077130,
       "lon": 135.4983500,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 2,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4048,14 +2058,9 @@
     },
     {
       "type": "node",
-      "id": 11434320397,
-      "lat": 34.7063320,
-      "lon": 135.4877280,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 2,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
+      "id": 11434319397,
+      "lat": 34.7124380,
+      "lon": 135.5094240,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4065,11 +2070,74 @@
         "brand:wikidata": "Q55533296",
         "capacity": "3",
         "fee": "yes",
-        "gbfs:name": "A-37.東通ビル",
-        "gbfs:station_id": "486",
+        "gbfs:name": "A-01.HUBchari事務局",
+        "gbfs:station_id": "7801",
         "gbfs:system_id": "docomo-cycle",
-        "name": "東通ビル",
-        "ref": "A-37"
+        "name": "HUBchari事務局",
+        "ref": "A-01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11434319417,
+      "lat": 34.7155800,
+      "lon": 135.5086120,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:website": "https://docomo-cycle.jp/",
+        "brand:wikidata": "Q55533296",
+        "capacity": "9",
+        "fee": "yes",
+        "gbfs:name": "A-39.大淀コミュニティセンター",
+        "gbfs:station_id": "516",
+        "gbfs:system_id": "docomo-cycle",
+        "name": "大淀コミュニティセンター",
+        "ref": "A-39"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11434319422,
+      "lat": 34.7085190,
+      "lon": 135.5066690,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:website": "https://docomo-cycle.jp/",
+        "brand:wikidata": "Q55533296",
+        "capacity": "5",
+        "fee": "yes",
+        "gbfs:name": "A-51.中崎2丁目",
+        "gbfs:station_id": "1698",
+        "gbfs:system_id": "docomo-cycle",
+        "name": "中崎2丁目",
+        "ref": "A-51"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11434319447,
+      "lat": 34.7186100,
+      "lon": 135.5158700,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:website": "https://docomo-cycle.jp/",
+        "brand:wikidata": "Q55533296",
+        "capacity": "8",
+        "fee": "yes",
+        "gbfs:name": "A-54.エステムコート梅田・天神橋3アヴァンテ",
+        "gbfs:station_id": "1798",
+        "gbfs:system_id": "docomo-cycle",
+        "name": "エステムコート梅田・天神橋3アヴァンテ",
+        "ref": "A-54"
       }
     },
     {
@@ -4077,11 +2145,6 @@
       "id": 11434320401,
       "lat": 34.7170310,
       "lon": 135.4824800,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 2,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4103,11 +2166,6 @@
       "id": 11434320407,
       "lat": 34.7363019,
       "lon": 135.4999520,
-      "timestamp": "2024-06-26T15:17:42Z",
-      "version": 3,
-      "changeset": 153208704,
-      "user": "Wish_F",
-      "uid": 6972989,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4139,11 +2197,6 @@
       "id": 11434320412,
       "lat": 34.7077250,
       "lon": 135.4895490,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 2,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4162,14 +2215,30 @@
     },
     {
       "type": "node",
-      "id": 11434320460,
-      "lat": 34.7057130,
-      "lon": 135.4914720,
-      "timestamp": "2023-12-20T06:57:18Z",
-      "version": 1,
-      "changeset": 145318219,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
+      "id": 11434320421,
+      "lat": 34.7143760,
+      "lon": 135.5114840,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:website": "https://docomo-cycle.jp/",
+        "brand:wikidata": "Q55533296",
+        "capacity": "6",
+        "fee": "yes",
+        "gbfs:name": "A-49.ピュアコート天神橋",
+        "gbfs:station_id": "1644",
+        "gbfs:system_id": "docomo-cycle",
+        "name": "ピュアコート天神橋",
+        "ref": "A-49"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11434320456,
+      "lat": 34.7090020,
+      "lon": 135.5077500,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4179,11 +2248,11 @@
         "brand:wikidata": "Q55533296",
         "capacity": "5",
         "fee": "yes",
-        "gbfs:name": "A-50.セブン-イレブン梅田スカイビル東店",
-        "gbfs:station_id": "1689",
+        "gbfs:name": "A-20.北区浮田2（地下鉄中崎町駅）",
+        "gbfs:station_id": "7885",
         "gbfs:system_id": "docomo-cycle",
-        "name": "セブン-イレブン梅田スカイビル東店",
-        "ref": "A-50"
+        "name": "北区浮田2（地下鉄中崎町駅）",
+        "ref": "A-20"
       }
     },
     {
@@ -4191,11 +2260,6 @@
       "id": 11434320464,
       "lat": 34.7103840,
       "lon": 135.4978900,
-      "timestamp": "2023-12-20T06:57:18Z",
-      "version": 1,
-      "changeset": 145318219,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4214,40 +2278,9 @@
     },
     {
       "type": "node",
-      "id": 11434320471,
-      "lat": 34.7069860,
-      "lon": 135.4916860,
-      "timestamp": "2023-12-20T06:57:18Z",
-      "version": 1,
-      "changeset": 145318219,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "brand": "Docomo Bike Share",
-        "brand:ja": "ドコモ・バイクシェア",
-        "brand:website": "https://docomo-cycle.jp/",
-        "brand:wikidata": "Q55533296",
-        "capacity": "6",
-        "fee": "yes",
-        "gbfs:name": "A-25.日本通運大阪支店",
-        "gbfs:station_id": "7963",
-        "gbfs:system_id": "docomo-cycle",
-        "name": "日本通運大阪支店",
-        "ref": "A-25"
-      }
-    },
-    {
-      "type": "node",
       "id": 11434320475,
       "lat": 34.7346210,
       "lon": 135.5025870,
-      "timestamp": "2023-12-20T06:57:18Z",
-      "version": 1,
-      "changeset": 145318219,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4269,11 +2302,6 @@
       "id": 11434320502,
       "lat": 34.7144720,
       "lon": 135.5040380,
-      "timestamp": "2023-12-20T06:57:18Z",
-      "version": 1,
-      "changeset": 145318219,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4292,14 +2320,51 @@
     },
     {
       "type": "node",
+      "id": 11434320515,
+      "lat": 34.7160680,
+      "lon": 135.5068950,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:website": "https://docomo-cycle.jp/",
+        "brand:wikidata": "Q55533296",
+        "capacity": "11",
+        "fee": "yes",
+        "gbfs:name": "A-31.UR リバーサイドほんじょう",
+        "gbfs:station_id": "7768",
+        "gbfs:system_id": "docomo-cycle",
+        "name": "UR リバーサイドほんじょう",
+        "ref": "A-31"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11434320532,
+      "lat": 34.7117220,
+      "lon": 135.5063750,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:website": "https://docomo-cycle.jp/",
+        "brand:wikidata": "Q55533296",
+        "capacity": "9",
+        "fee": "yes",
+        "gbfs:name": "A-61.本庄西一丁目25番3",
+        "gbfs:station_id": "2246",
+        "gbfs:system_id": "docomo-cycle",
+        "name": "本庄西一丁目25番3",
+        "ref": "A-61"
+      }
+    },
+    {
+      "type": "node",
       "id": 11434320570,
       "lat": 34.7090810,
       "lon": 135.4579140,
-      "timestamp": "2023-12-20T06:57:18Z",
-      "version": 1,
-      "changeset": 145318219,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4318,14 +2383,30 @@
     },
     {
       "type": "node",
+      "id": 11434320573,
+      "lat": 34.7075740,
+      "lon": 135.5132780,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:website": "https://docomo-cycle.jp/",
+        "brand:wikidata": "Q55533296",
+        "capacity": "7",
+        "fee": "yes",
+        "gbfs:name": "A-48.セブン-イレブン大阪池田町店",
+        "gbfs:station_id": "1575",
+        "gbfs:system_id": "docomo-cycle",
+        "name": "セブン-イレブン大阪池田町店",
+        "ref": "A-48"
+      }
+    },
+    {
+      "type": "node",
       "id": 11434320597,
       "lat": 34.7108030,
       "lon": 135.4929270,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 2,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4347,11 +2428,6 @@
       "id": 11434320601,
       "lat": 34.7114440,
       "lon": 135.5006530,
-      "timestamp": "2023-12-20T06:57:18Z",
-      "version": 1,
-      "changeset": 145318219,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4373,11 +2449,6 @@
       "id": 11434320611,
       "lat": 34.7134340,
       "lon": 135.5022640,
-      "timestamp": "2023-12-20T06:57:18Z",
-      "version": 1,
-      "changeset": 145318219,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4396,14 +2467,9 @@
     },
     {
       "type": "node",
-      "id": 11434320613,
-      "lat": 34.7380700,
-      "lon": 135.5013600,
-      "timestamp": "2023-12-20T06:57:18Z",
-      "version": 1,
-      "changeset": 145318219,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
+      "id": 11434320612,
+      "lat": 34.7096540,
+      "lon": 135.5160380,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4411,25 +2477,20 @@
         "brand:ja": "ドコモ・バイクシェア",
         "brand:website": "https://docomo-cycle.jp/",
         "brand:wikidata": "Q55533296",
-        "capacity": "4",
+        "capacity": "9",
         "fee": "yes",
-        "gbfs:name": "K-04.スカイライト新大阪",
-        "gbfs:station_id": "1849",
+        "gbfs:name": "A-15.ローソン国分寺一丁目東店",
+        "gbfs:station_id": "7907",
         "gbfs:system_id": "docomo-cycle",
-        "name": "スカイライト新大阪",
-        "ref": "K-04"
+        "name": "ローソン国分寺一丁目東店",
+        "ref": "A-15"
       }
     },
     {
       "type": "node",
-      "id": 11434320618,
-      "lat": 34.7064710,
-      "lon": 135.4913970,
-      "timestamp": "2023-12-20T06:57:18Z",
-      "version": 1,
-      "changeset": 145318219,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
+      "id": 11434320616,
+      "lat": 34.7124450,
+      "lon": 135.5087510,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4437,13 +2498,34 @@
         "brand:ja": "ドコモ・バイクシェア",
         "brand:website": "https://docomo-cycle.jp/",
         "brand:wikidata": "Q55533296",
-        "capacity": "11",
+        "capacity": "5",
         "fee": "yes",
-        "gbfs:name": "A-17.クレイドル梅田",
-        "gbfs:station_id": "1660",
+        "gbfs:name": "A-05.ファミリーマート天六本庄東店",
+        "gbfs:station_id": "7832",
         "gbfs:system_id": "docomo-cycle",
-        "name": "クレイドル梅田",
-        "ref": "A-17"
+        "name": "ファミリーマート天六本庄東店",
+        "ref": "A-05"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11434320640,
+      "lat": 34.7088050,
+      "lon": 135.5159810,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:website": "https://docomo-cycle.jp/",
+        "brand:wikidata": "Q55533296",
+        "capacity": "13",
+        "fee": "yes",
+        "gbfs:name": "A-34.イズミヤ天六樋之口店",
+        "gbfs:station_id": "7967",
+        "gbfs:system_id": "docomo-cycle",
+        "name": "イズミヤ天六樋之口店",
+        "ref": "A-34"
       }
     },
     {
@@ -4451,11 +2533,6 @@
       "id": 11434320646,
       "lat": 34.7324740,
       "lon": 135.4994000,
-      "timestamp": "2023-12-20T06:57:18Z",
-      "version": 1,
-      "changeset": 145318219,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4474,14 +2551,9 @@
     },
     {
       "type": "node",
-      "id": 11434320658,
-      "lat": 34.7074070,
-      "lon": 135.4973460,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 2,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
+      "id": 11434320661,
+      "lat": 34.7125470,
+      "lon": 135.5104860,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4489,25 +2561,20 @@
         "brand:ja": "ドコモ・バイクシェア",
         "brand:website": "https://docomo-cycle.jp/",
         "brand:wikidata": "Q55533296",
-        "capacity": "19",
+        "capacity": "3",
         "fee": "yes",
-        "gbfs:name": "A-24.D.D.HOUSE",
-        "gbfs:station_id": "7946",
+        "gbfs:name": "A-02.ファミリーマート天六北店",
+        "gbfs:station_id": "7822",
         "gbfs:system_id": "docomo-cycle",
-        "name": "D.D.HOUSE",
-        "ref": "A-24"
+        "name": "ファミリーマート天六北店",
+        "ref": "A-02"
       }
     },
     {
       "type": "node",
-      "id": 11434320695,
-      "lat": 34.7069660,
-      "lon": 135.5024080,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 2,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
+      "id": 11434320682,
+      "lat": 34.7127410,
+      "lon": 135.5184960,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4515,13 +2582,13 @@
         "brand:ja": "ドコモ・バイクシェア",
         "brand:website": "https://docomo-cycle.jp/",
         "brand:wikidata": "Q55533296",
-        "capacity": "8",
+        "capacity": "12",
         "fee": "yes",
-        "gbfs:name": "A-13.ファミリーマートK2梅田東店",
-        "gbfs:station_id": "7881",
+        "gbfs:name": "A-30.UR さざなみプラザ",
+        "gbfs:station_id": "7767",
         "gbfs:system_id": "docomo-cycle",
-        "name": "ファミリーマートK2梅田東店",
-        "ref": "A-13"
+        "name": "UR さざなみプラザ",
+        "ref": "A-30"
       }
     },
     {
@@ -4529,11 +2596,6 @@
       "id": 11434320724,
       "lat": 34.7308270,
       "lon": 135.5030680,
-      "timestamp": "2024-04-09T10:15:47Z",
-      "version": 2,
-      "changeset": 149769526,
-      "user": "Wish_F",
-      "uid": 6972989,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4561,14 +2623,53 @@
     },
     {
       "type": "node",
+      "id": 11481589204,
+      "lat": 34.7115699,
+      "lon": 135.5134321,
+      "tags": {
+        "addr:province": "大阪府",
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "HELLO CYCLING",
+        "brand:ja": "ハローサイクリング",
+        "brand:wikidata": "Q91231927",
+        "capacity": "3",
+        "contact:website": "https://www.hellocycling.jp",
+        "fee": "yes",
+        "gbfs:station_id": "13068",
+        "gbfs:system_id": "hellocycling",
+        "name": "地下鉄天六駅２番出入口駐輪場②",
+        "network": "HELLO CYCLING",
+        "network:ja": "ハローサイクリング",
+        "network:wikidata": "Q91231927"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11839709319,
+      "lat": 34.7113330,
+      "lon": 135.5120690,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:website": "https://docomo-cycle.jp/",
+        "brand:wikidata": "Q55533296",
+        "capacity": "9",
+        "fee": "yes",
+        "gbfs:name": "A-74.フォレスト106",
+        "gbfs:station_id": "2810",
+        "gbfs:system_id": "docomo-cycle",
+        "name": "フォレスト106",
+        "ref": "A-74"
+      }
+    },
+    {
+      "type": "node",
       "id": 11839709320,
       "lat": 34.7152220,
       "lon": 135.5016060,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 1,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4590,11 +2691,6 @@
       "id": 11839709321,
       "lat": 34.7197570,
       "lon": 135.4799310,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 1,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4613,14 +2709,30 @@
     },
     {
       "type": "node",
+      "id": 11839709322,
+      "lat": 34.7093100,
+      "lon": 135.5073090,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:website": "https://docomo-cycle.jp/",
+        "brand:wikidata": "Q55533296",
+        "capacity": "16",
+        "fee": "yes",
+        "gbfs:name": "A-72.浮田二丁目27番7",
+        "gbfs:station_id": "2789",
+        "gbfs:system_id": "docomo-cycle",
+        "name": "浮田二丁目27番7",
+        "ref": "A-72"
+      }
+    },
+    {
+      "type": "node",
       "id": 11839709328,
       "lat": 34.7097820,
       "lon": 135.4903090,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 1,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4642,11 +2754,6 @@
       "id": 11839709334,
       "lat": 34.7265860,
       "lon": 135.4945440,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 1,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4665,14 +2772,30 @@
     },
     {
       "type": "node",
+      "id": 11839709339,
+      "lat": 34.7148700,
+      "lon": 135.5158500,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:website": "https://docomo-cycle.jp/",
+        "brand:wikidata": "Q55533296",
+        "capacity": "4",
+        "fee": "yes",
+        "gbfs:name": "A-68.プラ・ディオ長柄",
+        "gbfs:station_id": "2594",
+        "gbfs:system_id": "docomo-cycle",
+        "name": "プラ・ディオ長柄",
+        "ref": "A-68"
+      }
+    },
+    {
+      "type": "node",
       "id": 11839709340,
       "lat": 34.7265890,
       "lon": 135.4939050,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 1,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4691,40 +2814,9 @@
     },
     {
       "type": "node",
-      "id": 11839709342,
-      "lat": 34.7393130,
-      "lon": 135.4925850,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 1,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "brand": "Docomo Bike Share",
-        "brand:ja": "ドコモ・バイクシェア",
-        "brand:website": "https://docomo-cycle.jp/",
-        "brand:wikidata": "Q55533296",
-        "capacity": "10",
-        "fee": "yes",
-        "gbfs:name": "K-11.熊木モータープール",
-        "gbfs:station_id": "2537",
-        "gbfs:system_id": "docomo-cycle",
-        "name": "熊木モータープール",
-        "ref": "K-11"
-      }
-    },
-    {
-      "type": "node",
       "id": 11839709347,
       "lat": 34.7332030,
       "lon": 135.4899400,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 1,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4746,11 +2838,6 @@
       "id": 11839709352,
       "lat": 34.7212940,
       "lon": 135.4832540,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 1,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4769,14 +2856,9 @@
     },
     {
       "type": "node",
-      "id": 11839709355,
-      "lat": 34.7383830,
-      "lon": 135.4981510,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 1,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
+      "id": 11839709354,
+      "lat": 34.7164530,
+      "lon": 135.5109240,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4784,13 +2866,13 @@
         "brand:ja": "ドコモ・バイクシェア",
         "brand:website": "https://docomo-cycle.jp/",
         "brand:wikidata": "Q55533296",
-        "capacity": "6",
+        "capacity": "9",
         "fee": "yes",
-        "gbfs:name": "K-09.NLC新御堂ビル",
-        "gbfs:station_id": "2309",
+        "gbfs:name": "A-64.北区天神橋八丁目11",
+        "gbfs:station_id": "2316",
         "gbfs:system_id": "docomo-cycle",
-        "name": "NLC新御堂ビル",
-        "ref": "K-09"
+        "name": "北区天神橋八丁目11",
+        "ref": "A-64"
       }
     },
     {
@@ -4798,11 +2880,6 @@
       "id": 11839709357,
       "lat": 34.7120120,
       "lon": 135.5009750,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 1,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4821,14 +2898,30 @@
     },
     {
       "type": "node",
+      "id": 11839709358,
+      "lat": 34.7122640,
+      "lon": 135.5066620,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "brand": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:website": "https://docomo-cycle.jp/",
+        "brand:wikidata": "Q55533296",
+        "capacity": "4",
+        "fee": "yes",
+        "gbfs:name": "A-65.セブン-イレブン大阪本庄西2丁目店",
+        "gbfs:station_id": "2263",
+        "gbfs:system_id": "docomo-cycle",
+        "name": "セブン-イレブン大阪本庄西2丁目店",
+        "ref": "A-65"
+      }
+    },
+    {
+      "type": "node",
       "id": 11839709365,
       "lat": 34.7377700,
       "lon": 135.5015600,
-      "timestamp": "2024-04-23T01:00:24Z",
-      "version": 1,
-      "changeset": 150371000,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
@@ -4850,11 +2943,6 @@
       "id": 11843096413,
       "lat": 34.7177749,
       "lon": 135.4817924,
-      "timestamp": "2024-04-24T06:22:25Z",
-      "version": 1,
-      "changeset": 150425463,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -4878,11 +2966,6 @@
       "id": 11843096414,
       "lat": 34.7087363,
       "lon": 135.4872358,
-      "timestamp": "2024-04-24T06:22:25Z",
-      "version": 1,
-      "changeset": 150425463,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -4906,11 +2989,6 @@
       "id": 11843096433,
       "lat": 34.7268606,
       "lon": 135.5011694,
-      "timestamp": "2024-04-24T06:22:25Z",
-      "version": 1,
-      "changeset": 150425463,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -4934,11 +3012,6 @@
       "id": 11843096434,
       "lat": 34.7261080,
       "lon": 135.4880537,
-      "timestamp": "2024-04-24T06:22:25Z",
-      "version": 1,
-      "changeset": 150425463,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -4959,42 +3032,9 @@
     },
     {
       "type": "node",
-      "id": 11843096435,
-      "lat": 34.7065475,
-      "lon": 135.4857427,
-      "timestamp": "2024-04-24T06:22:25Z",
-      "version": 1,
-      "changeset": 150425463,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
-      "tags": {
-        "addr:province": "大阪府",
-        "amenity": "bicycle_rental",
-        "authentication:app": "yes",
-        "brand": "HELLO CYCLING",
-        "brand:ja": "ハローサイクリング",
-        "brand:wikidata": "Q91231927",
-        "capacity": "10",
-        "contact:website": "https://www.hellocycling.jp",
-        "fee": "yes",
-        "gbfs:station_id": "13691",
-        "gbfs:system_id": "hellocycling",
-        "name": "ライフ大淀中店",
-        "network": "HELLO CYCLING",
-        "network:ja": "ハローサイクリング",
-        "network:wikidata": "Q91231927"
-      }
-    },
-    {
-      "type": "node",
       "id": 11843096441,
       "lat": 34.7325225,
       "lon": 135.4951277,
-      "timestamp": "2024-04-24T06:22:25Z",
-      "version": 1,
-      "changeset": 150425463,
-      "user": "okadatsuneo_import",
-      "uid": 12352917,
       "tags": {
         "addr:province": "大阪府",
         "amenity": "bicycle_rental",
@@ -5011,6 +3051,42 @@
         "network": "HELLO CYCLING",
         "network:ja": "ハローサイクリング",
         "network:wikidata": "Q91231927"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12069032426,
+      "lat": 34.7165494,
+      "lon": 135.4756958,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "ドコモ・バイクシェア",
+        "brand:en": "Docomo Bike Share",
+        "brand:ja": "ドコモ・バイクシェア",
+        "brand:wikidata": "Q55533296",
+        "capacity": "5",
+        "check_date": "2024-07-26",
+        "fee": "yes",
+        "fixme:type": "ドコモ・バイクシェアレンタサイクル",
+        "name": "エグゼ大阪NORTHGATE１",
+        "name:en": "Docomo Bike Share",
+        "name:ja": "ドコモ・バイクシェア",
+        "operator": "ドコモ・バイクシェア",
+        "operator:en": "Docomo Bike Share",
+        "operator:ja": "ドコモ・バイクシェア",
+        "operator:wikidata": "Q55533296"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12074904167,
+      "lat": 34.7166262,
+      "lon": 135.4755303,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "capacity": "5",
+        "check_date": "2024-07-26",
+        "name": "エグゼ大阪NORTHGATE2"
       }
     }
   ]
